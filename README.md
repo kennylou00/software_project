@@ -15,7 +15,7 @@ As we know, Minesweeper is fast track to getting outside when get in a trouble m
 
 we would prefer to promote this game to younger teen as below 15 ages. the game can practice their thinking and algorithm. As our destination, we hope teen can use this opportunity to open their thinking, even make more like-minded friends.  
 
- ![alt text](https://user-images.githubusercontent.com/41785232/113254677-786f3c80-92f9-11eb-846d-3dc8940d2a66.png)
+ ![alt text](https://user-images.githubusercontent.com/41785232/113290061-ab2e2a80-9323-11eb-9073-757c2e8afbf3.png)
 
  
 
