@@ -16,10 +16,11 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
 ![alt text](https://user-images.githubusercontent.com/41785232/113291359-820e9980-9325-11eb-89fd-81527d2c2105.png)
  
  
- 
- 
-<h2>The flow chart of evelopment process</h2>
 ![alt text](https://user-images.githubusercontent.com/41785232/113278579-ad3cbd00-9314-11eb-9ad6-24b1b03c718d.png)
+<h2>The flow chart of development process</h2>
+
+
+
 #.....some text about this part.......
 
 #.....................................
