@@ -82,12 +82,13 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
 
 #..................................... 
  
+ 
 <ul>game flow</ul>
 ![alt text](https://user-images.githubusercontent.com/41785232/113288553-af594880-9321-11eb-8807-e4a1c88591b2.png)
    
  
-![alt text]()
-![alt text]()
+ 
+
 
  
 
