@@ -146,14 +146,23 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
 #..................................... 
 
 <h2>New changelling and our outlook</h2>
-#.....some text about this part.......
 
-#.....................................
+<ol>
+ <li>Game development</li>
+   <p>As a unique cultural form, games satisfy people's instinct to seek happiness, and at the same time greatly expand the territory of human civilization's creativity and imagination. Game is more than just entertainment. The connection between games and education has not been broken since ancient times. An educational function of games is mainly to stimulate learning motivation, construct gamified learning environment, and cultivate knowledge, ability, emotional attitude and values.
+The game itself is to the music, architecture, sculpture, painting, photography, film and other art forms of comprehensive and creation, can give a person with aesthetic edification, many game also incorporates a lot of history, culture, science and technology knowledge, can stimulate players to further understand the interest, stimulate players' participation motivation, promote the development of autonomous learning.
+There is a subcategory of games called educational games, or serious games, which teach knowledge and skills, provide professional training and simulation.
+High-quality games with high cultural taste and good play experience deserve more attention, and they deserve more time and energy to think about how to make good games more valuable in all aspects of our lives.
+<li>Expanded functionality in the future</li>
+  <p>First of all, we will have our first major update in the first month after launch, which will include three background music and two different sets of interactive sound effects.
+After that, we will release a second major update three months after the first one. This time we will provide our own server system in the game to allow our players to upload their highest scores, providing a global scoreboard of player scores.
+Finally, five months after the second update, we'll have a third major update, with ten new maps and a map editor that allows players to build their own maps. In addition, we will update the UI of our game to include two different sets of cut-scenes in the interaction.
+At the same time of the last update, we will open source the code of the game and provide it for free to the users who need it.
 
-#.....................................
 
-#..................................... 
- 
+
+
+</ol> 
  
 
 
