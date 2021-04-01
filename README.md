@@ -13,6 +13,7 @@ As we know, Minesweeper is fast track to getting outside when get in a trouble m
 
 we would prefer to promote this game to younger teen as below 15 ages. the game can practice their thinking and algorithm. As our destination, we hope teen can use this opportunity to open their thinking, even make more like-minded friends.  
 
+![alt text](https://user-images.githubusercontent.com/41785232/113291359-820e9980-9325-11eb-89fd-81527d2c2105.png)
 
 <h2>Introduction</h2>
 <p> This article is to mine clearance game do a more detailed requirement analysis. Mainly from the specific implementation of the game and the game and the interface to do detailed introduction.</p>
@@ -50,7 +51,7 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
 
 
 <br/>
-![alt text](https://user-images.githubusercontent.com/41785232/113291359-820e9980-9325-11eb-89fd-81527d2c2105.png)
+
  
  
  
