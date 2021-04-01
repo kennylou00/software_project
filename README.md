@@ -71,19 +71,19 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
   </tr>
   <tr>
     <td>Daniel</td>
-    <td>collect and prepare data, design and coordinate with other members</td>
+    <td>Collect and prepare data, design and coordinate with other members work</td>
   </tr>
   <tr>
     <td>Violet</td>
-    <td>implement and design the code, test and debug </td>
+    <td>Implement and design the code, test and debug </td>
   </tr>
   <tr>
     <td>Kenny</td>
-    <td>design the documentation, implement and record the detailed of software process</td>
+    <td>Design the documentation, implement and record the detailed of software process</td>
   </tr>
   <tr>
     <td>Kuong</td>
-    <td>analysis useful data to members, expect the risk in process and solve</td>
+    <td>Analysis useful data to members, expect the risk in process and solve</td>
   </tr>
 </table>
  
@@ -96,27 +96,15 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
 
 ![alt text](https://user-images.githubusercontent.com/41785232/113278930-191f2580-9315-11eb-867c-a2380e7bf04b.png)
 
-#.....some text about this part.......
-
-#.....................................
-
-#.....................................
-
-#..................................... 
+<p>To avoid the delay of delivery, our team are more seriously to consider that allocate the development time. In the process, the most difficult problem mostly centralize on development code and find some bug.
+ To overcome the problme, we may need to suspend otther process and we handle it together.
  
  
  
 <h2>Basic structure of model</h2>
 
 ![alt text](https://user-images.githubusercontent.com/41785232/113290061-ab2e2a80-9323-11eb-9073-757c2e8afbf3.png)
-#.....some text about this part.......
 
-#.....................................
-
-#.....................................
-
-#..................................... 
- 
  
 <h2>Class diagram and game flow</h2>
 <ul><li>Class diagram</li>
