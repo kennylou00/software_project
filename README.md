@@ -55,7 +55,7 @@ Schedule of our software:
 
 #..................................... 
  
-basic structure of model 
+<h2>Basic structure of model</h2> 
 ![alt text](https://user-images.githubusercontent.com/41785232/113290061-ab2e2a80-9323-11eb-9073-757c2e8afbf3.png)
 #.....some text about this part.......
 
