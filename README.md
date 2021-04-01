@@ -30,7 +30,7 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
 <h2>Design overview</h2>
 <ol>
   <li>User</li>
-     <ul><li>Interface requirements</li></ul>
+     <ul><ol>Interface requirements</ol></ul>
        <p>Interface is a window that has a menu bar, the title bar. In the menu bar has two games and help menu. In             the game menu to set the start of the game, set the level of the game, is divided into junior middle school           high three game level; Able to record player's highest score;If programmers have experience can also be               added to the game, after the guess ray to a harsh voice, give a ringing laughter after guess ray, but this           is not the focus of the program. Can display the number of ray, and with an electronic clock is used to               calculate the time spent on players, but also can stop timing after players to open the other window, when           the program is in the current active window then previously playing time clock. There should be a shortcut           icon when start, can’t start directly by using the menu bar.</p>
  
    <ul>Game performance</ul>
