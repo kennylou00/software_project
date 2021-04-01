@@ -59,13 +59,7 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
 
 ![alt text](https://user-images.githubusercontent.com/41785232/113278579-ad3cbd00-9314-11eb-9ad6-24b1b03c718d.png)
 
-#.....some text about this part.......
-
-#.....................................
-
-#.....................................
-
-#..................................... 
+<p> the above picture is our development process. Similar to incremental development in agile methods. We will enhance the feedback and change the machine according to the customer's needs. As the final version, we will change or add some functions to meet their requirements
 
  
 <h2>Members Responsibilities</h2>
