@@ -111,7 +111,7 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
 
 ![alt text](https://user-images.githubusercontent.com/41785232/113297547-52638f80-932d-11eb-91ed-1e8345f8bb44.png)  
  
- as the above picture, it is a simplic description with the relationship between whole code. 
+ As the above picture, it is a simplic description with the relationship between whole code. 
  
 <li>Game flow</li></ul>
 
@@ -120,13 +120,7 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
 
 
 <h2>Current situation</h2>
-#.....some text about this part.......
-
-#.....................................
-
-#.....................................
-
-#..................................... 
+<p> Due the development of software is most finish, but we also can dicover many room for improvement. we may need to refactor our code and reduce the potential risk In addition, we are making a concept about the mode of online-competitor.
 
 <h2>New changelling and our outlook</h2>
 
