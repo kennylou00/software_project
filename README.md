@@ -18,6 +18,7 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
  
  
 <h2>The flow chart of development process</h2>
+
 ![alt text](https://user-images.githubusercontent.com/41785232/113278579-ad3cbd00-9314-11eb-9ad6-24b1b03c718d.png)
 
 #.....some text about this part.......
@@ -30,6 +31,7 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
 
  
 <h2>Members Responsibilities</h2>
+
 #............it is better to has a table to express that.....
 
 #.....some text about this part.......
@@ -48,6 +50,7 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
 <h2>Schedule of our software</h2>
 
 ![alt text](https://user-images.githubusercontent.com/41785232/113278930-191f2580-9315-11eb-867c-a2380e7bf04b.png)
+
 #.....some text about this part.......
 
 #.....................................
@@ -84,7 +87,9 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
  
  
 <li>Game flow</li></ul>
-   ![alt text](https://user-images.githubusercontent.com/41785232/113296181-b7b68100-932b-11eb-8d30-16a898f77284.png)
+
+
+![alt text](https://user-images.githubusercontent.com/41785232/113296181-b7b68100-932b-11eb-8d30-16a898f77284.png)
    
  
  
