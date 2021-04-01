@@ -59,7 +59,7 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
 
 ![alt text](https://user-images.githubusercontent.com/41785232/113278579-ad3cbd00-9314-11eb-9ad6-24b1b03c718d.png)
 
-<p> the above picture is our development process. Similar to incremental development in agile methods. We will enhance the feedback and change the machine according to the customer's needs. As the final version, we will change or add some functions to meet their requirements
+<p> the above picture is our development process. Similar to incremental development in agile methods. We will enhance the feedback and change the machine according to the customer's needs. As the final version, we will change or add some functions to meet their requirements.
 
  
 <h2>Members Responsibilities</h2>
@@ -97,7 +97,7 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
 ![alt text](https://user-images.githubusercontent.com/41785232/113278930-191f2580-9315-11eb-867c-a2380e7bf04b.png)
 
 <p>To avoid the delay of delivery, our team are more seriously to consider that allocate the development time. In the process, the most difficult problem mostly centralize on development code and find some bug.
- To overcome the problme, we may need to suspend otther process and we handle it together.
+ To overcome the problem, we may need to suspend otther process and we handle it together.
  
  
  
@@ -110,25 +110,13 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
 <ul><li>Class diagram</li>
 
 ![alt text](https://user-images.githubusercontent.com/41785232/113297547-52638f80-932d-11eb-91ed-1e8345f8bb44.png)  
-#.....some text about this part.......
-
-#.....................................
-
-#.....................................
-
-#..................................... 
  
+ as the above picture, it is a simplic description with the relationship between whole code. 
  
 <li>Game flow</li></ul>
 
 ![alt text](https://user-images.githubusercontent.com/41785232/113296181-b7b68100-932b-11eb-8d30-16a898f77284.png)
-#.....some text about this part.......
 
-#.....................................
-
-#.....................................
-
-#..................................... 
 
 
 <h2>Current situation</h2>
