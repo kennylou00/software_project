@@ -1,6 +1,6 @@
 # software_final_project
 
-project name: MineSweeper 
+<h1>MineSweeper</h1>
  
 
 Minesweepers, it is a classical game. 
@@ -18,7 +18,7 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
  
  
  
-The flow chart of evelopment process
+<h2>The flow chart of evelopment process</h2>
 ![alt text](https://user-images.githubusercontent.com/41785232/113278579-ad3cbd00-9314-11eb-9ad6-24b1b03c718d.png)
 #.....some text about this part.......
 
@@ -29,7 +29,7 @@ The flow chart of evelopment process
 #..................................... 
 
  
-Members Responsibilities
+<h2>Members Responsibilities</h2>
 #............it is better to has a table to express that.....
 
 #.....some text about this part.......
@@ -45,7 +45,8 @@ Members Responsibilities
  
  
  
-Schedule of our software:
+<h2>Schedule of our software</h2>
+
 ![alt text](https://user-images.githubusercontent.com/41785232/113278930-191f2580-9315-11eb-867c-a2380e7bf04b.png)
 #.....some text about this part.......
 
@@ -55,7 +56,10 @@ Schedule of our software:
 
 #..................................... 
  
-<h2>Basic structure of model</h2> 
+ 
+ 
+<h2>Basic structure of model</h2>
+
 ![alt text](https://user-images.githubusercontent.com/41785232/113290061-ab2e2a80-9323-11eb-9073-757c2e8afbf3.png)
 #.....some text about this part.......
 
@@ -66,8 +70,9 @@ Schedule of our software:
 #..................................... 
  
  
-class diagram and game flow:
-class diagram:
+<h2>class diagram and game flow</h2>
+<ul>class diagram</ul>
+
 ![alt text](https://user-images.githubusercontent.com/41785232/113287056-9cde0f80-931f-11eb-8995-a8be4f761703.png)  
 #.....some text about this part.......
 
@@ -77,7 +82,8 @@ class diagram:
 
 #..................................... 
  
-game flow:![alt text](https://user-images.githubusercontent.com/41785232/113288553-af594880-9321-11eb-8807-e4a1c88591b2.png)
+<ul>game flow</ul>
+![alt text](https://user-images.githubusercontent.com/41785232/113288553-af594880-9321-11eb-8807-e4a1c88591b2.png)
    
  
 ![alt text]()
