@@ -16,7 +16,7 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
 
 <h2>Introduction</h2>
 <p> This article is to mine clearance game do a more detailed requirement analysis. Mainly from the specific implementation of the game and the game and the interface to do detailed introduction.</p>
-<ul>
+<ol>
   <li>Project purpose </li>
       <p>This is a based on a small game intelligence under the Windows operating system, the development of the game          is to give operators can easily play this game in his spare time, and can exercise their own thinking                ability.</p>
   <li>Project risk</li>
@@ -24,19 +24,19 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
   <li>Application</li>
        <p>Because it is a little intellectual games and it is attached under the Windows operating system of a game,           so it is suitable for all staff, even a child can play the game, not only there is no harm, but also have             very good help for his brain. If not skilled to the operation of the computer, can learn to play through             the game to help beginners to master the basic operations of a computer.</p>
  
-</ul>
+</ol>
 
 <h2>Design overview</h2>
-<ul>
+<ol>
   <li>User</li>
-     <ol>Interface requirements</ol>
+     <ul>Interface requirements</ul>
        <p>Interface is a window that has a menu bar, the title bar. In the menu bar has two games and help menu. In             the game menu to set the start of the game, set the level of the game, is divided into junior middle school           high three game level; Able to record player's highest score;If programmers have experience can also be               added to the game, after the guess ray to a harsh voice, give a ringing laughter after guess ray, but this           is not the focus of the program. Can display the number of ray, and with an electronic clock is used to               calculate the time spent on players, but also can stop timing after players to open the other window, when           the program is in the current active window then previously playing time clock. There should be a shortcut           icon when start, can’t start directly by using the menu bar.</p>
  
-   <ol>Game performance</ol>
+   <ul>Game performance</ul>
       <p>The game is a game of mine. land mine is immediately by the system, each time must be different, that is              land mine immediately. The game has three levels of difficulty: beginner, intermediate and advanced. Its              difficulty of the game increases as the level increases, and the area of the map is proportional to the              number of mines.</p>
-   <ol>Concrete implementation</ol>
-       <p>The rules of the game: press left key to “start” (“开始”)![alt text](https://user-images.githubusercontent.com/41785232/113300259-51802d00-9330-11eb-8d00-10ab80e07748.png) first, can through the interface shortcut.</p>
-       <p>Players can change the difficulty of the game by clicking the “game” (“游戏”)![alt text](https://user-images.githubusercontent.com/41785232/113300403-783e6380-9330-11eb-9a2a-80f9bdf007af.png)  button.</p>
+   <ul>Concrete implementation</ul>
+       <p>The rules of the game: press left key to “start” (“开始”)first, can through the interface shortcut.</p>
+       <p>Players can change the difficulty of the game by clicking the “game” (“游戏”)button.</p>
        
        
    <li>Restrictions and constraints</li>
@@ -44,7 +44,7 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
    
    <li>Design principles and requirements</li>
        <p>Design principles and requirements of this procedure is a simple and clear interface, can give players the           feeling of be clear at a glance, but at the same time, to be able to fully reflect the characteristics of             the game to learn. Program to stability, to the operating system does not have any influence, of the                 storage size cannot be more than 1M.</p>
- </ul>
+ </ol>
 
 
 
