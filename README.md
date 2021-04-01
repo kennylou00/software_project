@@ -13,6 +13,23 @@ As we know, Minesweeper is fast track to getting outside when get in a trouble m
 
 we would prefer to promote this game to younger teen as below 15 ages. the game can practice their thinking and algorithm. As our destination, we hope teen can use this opportunity to open their thinking, even make more like-minded friends.  
 
+
+<h2>Introduction</h2>
+<p> This article is to mine clearance game do a more detailed requirement analysis. Mainly from the specific implementation of the game and the game and the interface to do detailed introduction.</p>
+<ul>
+  <li>Project purpose </li>
+      <p>This is a based on a small game intelligence under the Windows operating system, the development of the game          is to give operators can easily play this game in his spare time, and can exercise their own thinking                ability.</p>
+  <li>Project risk</li>
+       <p>Relative to other large program - this program is not much risk, as long as you can in accordance with the           need to the results of the design, will get a satisfactory program.</p>
+  <li>Application</li>
+       <p>Because it is a little intellectual games and it is attached under the Windows operating system of a game,           so it is suitable for all staff, even a child can play the game, not only there is no harm, but also have             very good help for his brain. If not skilled to the operation of the computer, can learn to play through             the game to help beginners to master the basic operations of a computer.</p>
+ 
+</ul>
+
+
+
+
+
 ![alt text](https://user-images.githubusercontent.com/41785232/113291359-820e9980-9325-11eb-89fd-81527d2c2105.png)
  
  
@@ -43,7 +60,7 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
 #..................................... 
  
  
- 
+
  
  
  
