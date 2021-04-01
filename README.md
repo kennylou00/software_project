@@ -71,7 +71,7 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
  
  
 <h2>Class diagram and game flow</h2>
-<ul>Class diagram</ul>
+<ul><li>Class diagram</li>
 
 ![alt text](https://user-images.githubusercontent.com/41785232/113287056-9cde0f80-931f-11eb-8995-a8be4f761703.png)  
 #.....some text about this part.......
@@ -83,7 +83,7 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
 #..................................... 
  
  
-<ul>Game flow</ul>
+<li>Game flow</li></ul>
 ![alt text](https://user-images.githubusercontent.com/41785232/113288553-af594880-9321-11eb-8807-e4a1c88591b2.png)
    
  
