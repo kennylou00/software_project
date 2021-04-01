@@ -1,4 +1,4 @@
-# software_final_project
+# Software final group project
 
 <h1>MineSweeper</h1>
  
