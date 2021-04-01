@@ -1,6 +1,6 @@
-# software_project
+# software_final_project
 
-project_Name: MineSweeper 
+project name: MineSweeper 
  
 
 Minesweepers, it is a classical game. 
@@ -9,7 +9,7 @@ We want to promote this game and add more customer style of this game
 
 the software will be applied as agile development process. 
 
-Due Minesweepers is a small game, it is not suitable to use a waterfall model. Moreover, we want to add some customer style in game interface as possible. So, agile method is the best way to finish this project. 
+Due Minesweeper is a small game, it is not suitable to use a waterfall model. Moreover, we want to add some customer style in game interface as possible. So, agile method is the best way to finish this project. 
 
 As we know, Minesweeper is fast track to getting outside when get in a trouble mind or take a break. it's funny game and can practice our brain about speculate and reaction of calculation. 
 
