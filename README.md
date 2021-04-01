@@ -64,15 +64,28 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
  
 <h2>Members Responsibilities</h2>
 
-#............it is better to has a table to express that.....
-
-#.....some text about this part.......
-
-#.....................................
-
-#.....................................
-
-#..................................... 
+<table style="width:100%">
+  <tr>
+    <th>Name</th>
+    <th>responsibilities & portion</th>
+  </tr>
+  <tr>
+    <td>Daniel</td>
+    <td>collect and prepare data, design and coordinate with other members</td>
+  </tr>
+  <tr>
+    <td>Violet</td>
+    <td>implement and design the code, test and debug </td>
+  </tr>
+  <tr>
+    <td>Kenny</td>
+    <td>design the documentation, implement and record the detailed of software process</td>
+  </tr>
+  <tr>
+    <td>Kuong</td>
+    <td>analysis useful data to members, expect the risk in process and solve</td>
+  </tr>
+</table>
  
  
 
