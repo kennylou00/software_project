@@ -99,6 +99,20 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
 <p>To avoid the delay of delivery, our team are more seriously to consider that allocate the development time. In the process, the most difficult problem mostly centralize on development code and find some bug.
  To overcome the problem, we may need to suspend otther process and we handle it together.
  
+ <h2>Algorithm</h2>
+ <p>Variable Description:
+bon: number of mines
+a1[0:bone-1]: the location of the mines
+row: row
+col: column
+a[row][col]: if (row, col) is a mine, a[row][col] = 100, other a][row,col] = number of mines around
+
+Algorithm description:
+1. Generate bon different random numbers between 0 and (row*col-1) and store them in the a1[] data respectively.
+2. Transform the bon random numbers (a1[]) generated in step 1 into two-dimensional coordinates (x,y), a[x][y] = 100.
+3. a[i][j] = 0 except for step 2
+4. Iterate over a[i][j]! = 100, let a[i][j] = number of surrounding mines </p>
+ 
  <h2>The detailed of testing</h2>
  <p>Inside of testing, we can use CI/CD (Continuous Integration and Continuous Deployment or Continuous Delivery) Pipeline, which is consisted of CI and CD. CI is consistent and automated way to build, package, and test applications. CD means deliver of applications to selected infrastructure environments. As simply to see, CI/CD is an automatic machine process to test our product. As the advantage, CI/CD supports change code frequently, so it can be more flexible when developer change their original function even add new function in the product. Due the flexible to modify code, the beginning of project can be set up faster. Focus the core function or take the feedback of customer can be make our product be time-market product.</p>
  
