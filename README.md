@@ -101,11 +101,11 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
  
  <h2>Algorithm</h2>
  <p>Variable Description:
-bon: number of mines
-a1[0:bone-1]: the location of the mines
-row: row
-col: column
-a[row][col]: if (row, col) is a mine, a[row][col] = 100, other a][row,col] = number of mines around
+<li>bon: number of mines</li>
+<li>a1[0:bone-1]: the location of the mines</li>
+<li>row: row</li>
+<li>col: column</li>
+<li>a[row][col]: if (row, col) is a mine, a[row][col] = 100, other a][row,col] = number of mines around</li>
 
 Algorithm description:
 1. Generate bon different random numbers between 0 and (row*col-1) and store them in the a1[] data respectively.
