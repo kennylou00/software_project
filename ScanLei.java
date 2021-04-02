@@ -114,7 +114,7 @@ public class ScanLei extends JFrame  implements ActionListener{
 		setVisible(true);
 	}
 	public static void main(String[] args){
-		new ScanLei1("Mine").go();	
+		new ScanLei("Mine").go();	
 	}
 	public void out(int[][] a,JButton[] btns,ActionEvent e,int i,int x,int y){
 	       int p=1;
