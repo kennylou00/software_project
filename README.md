@@ -36,8 +36,8 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
    <ul><li>Game performance</li></ul>
       <p>The game is a game of mine. land mine is immediately by the system, each time must be different, that is              land mine immediately. The game has three levels of difficulty: beginner, intermediate and advanced. Its              difficulty of the game increases as the level increases, and the area of the map is proportional to the              number of mines.</p>
    <ul><li>Concrete implementation</li></ul>
-       <p>The rules of the game: press left key to “start” (“开始”)first, can through the interface shortcut.
-          Players can change the difficulty of the game by clicking the “game” (“游戏”)button.</p>
+       <p>The rules of the game: press left key to “Begin” first, can through the interface shortcut.
+          Players can change the difficulty of the game by clicking the “Game” button.</p>
        
        
    <li>Restrictions and constraints</li>
