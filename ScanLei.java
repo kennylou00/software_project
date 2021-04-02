@@ -142,8 +142,7 @@ public class ScanLei extends JFrame  implements ActionListener{
 									     a[x-1][l]=10;
 										 btns[n+col*q].setEnabled(false);
 							        }
-						            p=0;
-								
+						            p=0;	
 						      }
 					     }
 					 }
@@ -167,7 +166,6 @@ public class ScanLei extends JFrame  implements ActionListener{
 							 p=0;
 						 }
 					 }
-					  
 				   }
 	        	 }
 	      	   int m=x-1;
@@ -382,6 +380,7 @@ public class ScanLei extends JFrame  implements ActionListener{
 			//System.out.println(t);
 			if(t<=0){
 				timer.stop();
+				
 			}else{
 				
 				t--;
@@ -410,7 +409,7 @@ public class ScanLei extends JFrame  implements ActionListener{
 			    	   if(a[m][n]==100){
 			    		 btns[j].setText("★");
 			    	     btns[j].setEnabled(false);			    	   
-			    	     b3.setText("You Win！");
+			    	     b3.setText("You Lose！"); // debug 2
 			    	 }
 			    	 btns[j].setEnabled(false);
 			    	 a[m][n]=10;
