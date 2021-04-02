@@ -226,7 +226,7 @@ public class ScanLei extends JFrame  implements ActionListener{
 			b5.append("   "+"                        Game Rule    "+"\r\n"+"\r\n");
 			b5.append("   "+"  Randomly arrange a certain amount of mines in a 10*10,"+"\r\n");
 			b5.append("   "+"(primary),40*40(intermediate),99*99 (Advanced) or custom "+"\r\n");
-			b5.append("    "+"matrix (10 for primary, 40 for intermediate, 99 for advanced).,"+"\r\n");
+			b5.append("    "+"matrix (10 for primary, 40 for intermediate, 99 for advanced)."+"\r\n");
 			b5.append("    "+"size squarematrix (10 for primary, 40 for intermediate, "+"\r\n");
 			b5.append("    "+"99 for advanced).Players turn over the box one by one to "+"\r\n");
 			b5.append("    "+"find out all the mines as the final goal of the game. If "+"\r\n");
