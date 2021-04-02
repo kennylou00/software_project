@@ -99,6 +99,9 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
 <p>To avoid the delay of delivery, our team are more seriously to consider that allocate the development time. In the process, the most difficult problem mostly centralize on development code and find some bug.
  To overcome the problem, we may need to suspend otther process and we handle it together.
  
+ <h2>The detailed of testing</h2>
+ <p>Inside of testing, we can use CI/CD (Continuous Integration and Continuous Deployment or Continuous Delivery) Pipeline, which is consisted of CI and CD. CI is consistent and automated way to build, package, and test applications. CD means deliver of applications to selected infrastructure environments. As simply to see, CI/CD is an automatic machine process to test our product. As the advantage, CI/CD supports change code frequently, so it can be more flexible when developer change their original function even add new function in the product. Due the flexible to modify code, the beginning of project can be set up faster. Focus the core function or take the feedback of customer can be make our product be time-market product.</p>
+ 
  
  
 <h2>Basic structure of model</h2>
