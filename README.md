@@ -115,7 +115,7 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
  
 <li>Game flow</li></ul>
 
-![alt text](https://user-images.githubusercontent.com/41785232/113296181-b7b68100-932b-11eb-8d30-16a898f77284.png)
+![image](https://user-images.githubusercontent.com/81738923/113380575-2a1c7500-93af-11eb-9f7c-d92ec47218a1.png)
 
 
 
