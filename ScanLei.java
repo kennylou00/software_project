@@ -32,7 +32,7 @@ public class ScanLei extends JFrame  implements ActionListener{
 	private int row=9;
 	private int col=9;
 	private int bon=10;
-	private int maxtime = 15;
+	private int maxtime = 20;
 	private int[][] a;
 	private int b;
 	private int[] a1;
@@ -441,6 +441,7 @@ public class ScanLei extends JFrame  implements ActionListener{
 				if(e.getSource()==btns[i]&&btns[i].getText()!="★"&&a[x1][y1]!=10)
 				{
 			       if(e.getButton()==MouseEvent.BUTTON3){
+				       if(b > 0){
 				      btns[i].setText("★");
 				      b--;
 				      if(b==0){
@@ -458,6 +459,7 @@ public class ScanLei extends JFrame  implements ActionListener{
 				    	  }
 				      }
 				      b1.setText(b+"");
+					       }
 			       }
 				}else if(e.getSource()==btns[i]&&btns[i].getText()=="★"&&a[x1][y1]!=-1){
 					if(e.getButton()==MouseEvent.BUTTON3){
