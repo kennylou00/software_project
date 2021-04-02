@@ -109,10 +109,10 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
 ![alt text](https://user-images.githubusercontent.com/41785232/113290061-ab2e2a80-9323-11eb-9073-757c2e8afbf3.png)
 
  
-<h2>Class diagram and game flow</h2>
+<h2>UML diagram and game flow</h2>
 <ul><li>Class diagram</li>
 
-![alt text](https://user-images.githubusercontent.com/41785232/113297547-52638f80-932d-11eb-91ed-1e8345f8bb44.png)  
+![alt text](https://user-images.githubusercontent.com/41785232/113401222-9dd17880-93d5-11eb-9e54-59184173aa5e.png)  
  
  As the above picture, it is a simplic description with the relationship between whole code. 
  
