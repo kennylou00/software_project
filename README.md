@@ -126,7 +126,7 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
 <p> Due the development of software is most finish, but we also can dicover many room for improvement. 
  we may need to refactor our code and reduce the potential risk. In addition, we are making a concept about the mode of online-competitor. 
 <h2>Group Project DEMO Video</h2>
-<p></p>
+    <p>(https://www.youtube.com/watch?v=TjBrCHlShV0) </p>
 <h2>New changelling and our outlook</h2>
 
 <ol>
@@ -137,7 +137,7 @@ The game itself is to the music, architecture, sculpture, painting, photography,
 There is a subcategory of games called educational games, or serious games, which teach knowledge and skills, provide professional training and simulation.
 High-quality games with high cultural taste and good play experience deserve more attention, and they deserve more time and energy to think about how to make good games more valuable in all aspects of our lives.
 <li>Expanded functionality in the future</li>
-    <p>![alt text](https://studio.youtube.com/video/TjBrCHlShV0/edit) </p>
+
   <p>First of all, we will have our first major update in the first month after launch, which will include three background music and two different sets of interactive sound effects.
 After that, we will release a second major update three months after the first one. This time we will provide our own server system in the game to allow our players to upload their highest scores, providing a global scoreboard of player scores.
 Finally, five months after the second update, we'll have a third major update, with ten new maps and a map editor that allows players to build their own maps. In addition, we will update the UI of our game to include two different sets of cut-scenes in the interaction.
