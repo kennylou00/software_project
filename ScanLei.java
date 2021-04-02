@@ -380,7 +380,7 @@ public class ScanLei extends JFrame  implements ActionListener{
 			//System.out.println(t);
 			if(t<=0){
 				timer.stop();
-				
+				b3.setText("You Lose！"); // debug 3
 			}else{
 				
 				t--;
