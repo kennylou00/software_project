@@ -153,9 +153,8 @@ Finally, five months after the second update, we'll have a third major update, w
 At the same time of the last update, we will open source the code of the game and provide it for free to the users who need it.
 
 
-
-
 </ol> 
+ 
  
 
 
