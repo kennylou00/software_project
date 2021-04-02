@@ -126,7 +126,7 @@ we would prefer to promote this game to younger teen as below 15 ages. the game 
 <p> Due the development of software is most finish, but we also can dicover many room for improvement. 
  we may need to refactor our code and reduce the potential risk. In addition, we are making a concept about the mode of online-competitor. 
 <h2>Group Project DEMO Video</h2>
-    <p>(https://www.youtube.com/watch?v=TjBrCHlShV0) </p>
+    <p>https://www.youtube.com/watch?v=kf7LupEG5OY</p>
 <h2>New changelling and our outlook</h2>
 
 <ol>
