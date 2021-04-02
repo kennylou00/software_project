@@ -18,7 +18,7 @@ import javax.swing.Timer;
 import javax.swing.JTextArea;
 
 
-public class ScanLei1 extends JFrame  implements ActionListener{
+public class ScanLei extends JFrame  implements ActionListener{
 	
 	private static final long serialVersionUID = 1L;
 	private Container contentPane;
@@ -39,7 +39,7 @@ public class ScanLei1 extends JFrame  implements ActionListener{
 	private JPanel p,p1,p2,p3;
 	
 	
-	public ScanLei1(String title){
+	public ScanLei(String title){
 		super(title);
 		contentPane=getContentPane();
 		setSize(297,377);
@@ -252,7 +252,7 @@ public class ScanLei1 extends JFrame  implements ActionListener{
 			a = new int[row+2][col+2];
 			this.remove(p2);
 			timer.stop();
-			b1.setText("10");
+			b1.setText(bon+""); //debug 1
 			b2.setText(String.valueOf(maxtime*bon/10));
 			b3.setText("");
 			btns=new JButton[row*col];
